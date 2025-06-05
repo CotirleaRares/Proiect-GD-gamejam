@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|d:\\unity_projects\\cafe game good (2)\\cafe game good\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|d:\\unity_projects\\cafe game good (2)\\cafe game good\\assets\\quiztrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|solutionrelative:assets\\quiztrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\assets\\charactercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|solutionrelative:assets\\charactercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\assets\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|solutionrelative:assets\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\assets\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|solutionrelative:assets\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\assets\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD971CE-7BBE-753D-AD6F-C96A056A7215}|Assembly-CSharp.csproj|solutionrelative:assets\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Library\\PackageCache\\com.unity.render-pipelines.universal@43e3bf1c3037\\Runtime\\UniversalRenderPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@43e3bf1c3037\\Runtime\\UniversalRenderPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:22:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizTrigger.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\QuizTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\QuizTrigger.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\QuizTrigger.cs",
+              "RelativeToolTip": "Assets\\QuizTrigger.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAewGcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:37:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\QuizManager.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\QuizManager.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:44:55.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueManager.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\DialogueManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAABQwI8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:40:28.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogueTrigger.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\DialogueTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueTrigger.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\DialogueTrigger.cs",
+              "RelativeToolTip": "Assets\\DialogueTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:41:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterController2D.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\CharacterController2D.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterController2D.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\CharacterController2D.cs",
+              "RelativeToolTip": "Assets\\CharacterController2D.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAuwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:47:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:44:36.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UniversalRenderPipeline.cs",
+              "DocumentMoniker": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Library\\PackageCache\\com.unity.render-pipelines.universal@43e3bf1c3037\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@43e3bf1c3037\\Runtime\\UniversalRenderPipeline.cs",
+              "ToolTip": "D:\\unity_projects\\Cafe Game good (2)\\Cafe Game good\\Library\\PackageCache\\com.unity.render-pipelines.universal@43e3bf1c3037\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@43e3bf1c3037\\Runtime\\UniversalRenderPipeline.cs",
+              "ViewState": "AQIAAGUDAAAAAAAAAAAqwH0DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:41:12.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
